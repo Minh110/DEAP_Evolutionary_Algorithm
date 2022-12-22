@@ -16,11 +16,10 @@ Three bystanders, P1, P2 and P3, witness a hit-and-run accident, with the victim
 If you were one of those witnesses, would you call Triple-Zero, or remain a mute spectator?
 
 We model this 3VD game by the payoff matrix given in Table 1 below.
-Pj & Pk
+
 | | 0V | 1V | 2Vs |
 |-----|----|----|----|
 |V| 5 | 6 | 8 | 
-|-----|----|----|----|
-Pi |A| 0 | 9 | 7 |
+|A| 0 | 9 | 7 |
 
-Payoffs to Pi, under how many of {Pj, Pk} play V.
+Payoffs to Pi (horizontal), under how many of {Pj, Pk} (vertical) play V.
